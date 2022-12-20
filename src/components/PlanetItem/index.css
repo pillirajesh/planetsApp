@@ -1,0 +1,35 @@
+/* Write your CSS here */
+
+.image {
+  width: 300px;
+  height: 200px;
+}
+
+.slider-container {
+  padding: 40px;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'roboto';
+  font-weight: bold;
+  color: #f8fafc;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 35px;
+}
+
+.description {
+  font-family: 'roboto';
+  font-weight: 400;
+  color: #f1f5f9;
+  font-size: 18px;
+  text-align: center;
+  width: 700px;
+}
